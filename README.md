@@ -1,5 +1,7 @@
 # Hi there, I'm Gerardo! 👋
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsherar&label=Visitors&labelColor=%2337d67a&countColor=%23ffffff)
+
 ## 🔒 Security · 🛠 Engineering · 🤖 AI
 
 
