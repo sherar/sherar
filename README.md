@@ -24,7 +24,7 @@
 
 📫 **How to Reach Me:**
 - LinkedIn: [Gerardo Prieto](https://www.linkedin.com/in/gerardo-prieto/)
-- Twitter: [@sherarr](https://twitter.com/sherarr
+- Twitter: [@sherarr](https://twitter.com/sherarr)
 
 
 ### Languages and Tools:
