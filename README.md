@@ -1,6 +1,8 @@
 # Hi there, I'm Gerardo! 👋
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsherar&label=Visitors&labelColor=%2337d67a&countColor=%23ffffff)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerardo-prieto)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sherarr)
 
 ## 🔒 Security · 🛠 Engineering · 🤖 AI
 
