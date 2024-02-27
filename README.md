@@ -1,6 +1,6 @@
 # Hi there, I'm Gerardo! 👋
 
-## 🔒 Security | 🛠 Engineering | 🤖 AI
+## 🔒 Security · 🛠 Engineering · 🤖 AI
 
 
 🔭 **Currently Working On:**
